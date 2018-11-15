@@ -1,0 +1,27 @@
+---
+# Name of the website
+# Defaults to the title
+site_name: "AwesomeDocs Starter"
+
+# URL where the site will live
+site_url: "Build awesome documentation site with AwesomeDocs!"
+
+# Title of the website
+title: "AwesomeDocs Starter"
+
+# Description of the website
+description: ""
+
+# Path to the logo of your site
+logo: "https://resources.bastionbot.org/logos/Bastion_Logotype_CD.png"
+
+# Link to, GitHub issue, for example, where users can send feedback
+feedback: "https://github.com/AwesomeDocs/awesomedocs-starter/issues"
+
+# Copyright notice that would be placed in the footer
+copyright: "Copyright © 2018 - AwesomeDocs"
+
+
+# Accent color of the site
+# Default: `#3eb0ef`
+color: "#3eb0ef"
