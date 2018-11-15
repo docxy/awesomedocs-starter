@@ -6,7 +6,7 @@ case $1 in
   build )
     mkdir -p $AWESOME_DIR_NAME
     cd $AWESOME_DIR_NAME
-    rm -rfI *
+    rm -rfI * .*
 
     git clone https://github.com/AwesomeDocs/AwesomeDocs.git .
     rm -rf .git
